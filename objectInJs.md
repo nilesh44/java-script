@@ -22,4 +22,11 @@
 note: * we cannot use object created with literal with multiple object ,because any change in object will reflect in all the object. 
  * we can create multiple object with constructor function and use where we want , any change in any of objecct will not reflect to any of object because all object have different reference and different storage .
  
+ # Adding Properties And Methods in an Object.
+ ![image](https://user-images.githubusercontent.com/44174633/183817692-e3c95e08-5c67-4a16-8da6-a09a68cd3891.png)
+* here we can see that that the properties and method for person1 and person2 is different.
+
+![image](https://user-images.githubusercontent.com/44174633/183817795-91bcb618-dc8a-458c-b8cc-d508d6256d06.png)
+
+# Note: In JavaScript, the keyword class was introduced in ES6 (ES2015) that also allows us to create objects. Classes are similar to constructor functions in JavaScript. To learn more, visit JavaScript Classes.
  
